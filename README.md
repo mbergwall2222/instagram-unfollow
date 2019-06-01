@@ -3,7 +3,7 @@
 Hey all - Simple repo for personal Instagram accounts that will allow you to auto unfollow those you follow that are not following you back. Kinda a crappy thing to do, but many people requested this and I was bored one day.
 
 ---
-###Requirements
+### Requirements
 
 All you need installed is NodeJS and of course NPM. Google it if you don't know how to get this.
 
